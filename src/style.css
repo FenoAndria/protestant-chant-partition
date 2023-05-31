@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  /* font-size: 16px;  */
+  line-height: 24px;
+  color : white;
+  color-scheme: light dark;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+body{
+  @apply bg-gradient-to-tr from-blue-800 to-teal-400 min-h-screen
+}
+
+pre{
+  overflow-x: auto;
+  white-space: pre-wrap;
+  word-wrap:break-word;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  
+}
+
+input { 
+  @apply block input input-sm w-full text-dark text-base ring-1
+}
+
+textarea {
+  @apply textarea block w-full text-dark text-base ring-1 
+}
+
+
+
+
