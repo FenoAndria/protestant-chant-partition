@@ -20,4 +20,5 @@ const app = createApp(App)
 app.config.globalProperties.$dayjs = dayjs
 app.config.globalProperties.$uuid = v4
 
-app.use(router).use(store).use(VueAwesomePaginate).mount('#app')
+// app.use(router).use(store).use(VueAwesomePaginate).mount('#app')
+app.use(router).use(store).mount('#app')

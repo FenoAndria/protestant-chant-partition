@@ -1,0 +1,3310 @@
+﻿[
+    {
+        "laharana": "1",
+        "refy": "12.13.11.11"
+    },
+    {
+        "laharana": "2",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "3",
+        "refy": "6.7.6.7.6.6.6.6"
+    },
+    {
+        "laharana": "4",
+        "refy": "7.7.7.7 D"
+    },
+    {
+        "laharana": "5",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "6",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "7",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "8",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "9",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "10",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "11",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "12",
+        "refy": "10.10.10.8"
+    },
+    {
+        "laharana": "13",
+        "refy": "7.8.7.8.7.6.7.6.7.6.7.6"
+    },
+    {
+        "laharana": "14",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "15",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "16",
+        "refy": "L.M.D"
+    },
+    {
+        "laharana": "17",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "18",
+        "refy": "8.8.8.8.4.8"
+    },
+    {
+        "laharana": "19",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "20",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "21",
+        "refy": "8.8.8.8.8.D"
+    },
+    {
+        "laharana": "22",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "23",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "24",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "25",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "26",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "27",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "28",
+        "refy": "8.7.8.7.8.8.8.7"
+    },
+    {
+        "laharana": "29",
+        "refy": "8.8.7.8.8.7.4.8.4.8"
+    },
+    {
+        "laharana": "30",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "31",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "32",
+        "refy": "66.66 D"
+    },
+    {
+        "laharana": "33",
+        "refy": "7.7.7.6 D"
+    },
+    {
+        "laharana": "34",
+        "refy": "6.5.6.5 D"
+    },
+    {
+        "laharana": "35",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "36",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "37",
+        "refy": "7.7.7.7.7.7"
+    },
+    {
+        "laharana": "38",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "39",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "40",
+        "refy": "11.10.11.10"
+    },
+    {
+        "laharana": "41",
+        "refy": "8.7.8.7.8.8.8.7"
+    },
+    {
+        "laharana": "42",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "43",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "44",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "45",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "46",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "47",
+        "refy": "8.9.8.8.9.8.6.6.4.8.8"
+    },
+    {
+        "laharana": "48",
+        "refy": "8.7.8.7.8.8.7"
+    },
+    {
+        "laharana": "49",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "50",
+        "refy": "8.9.8.8.9.8.6.6.4.8.8"
+    },
+    {
+        "laharana": "51",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "52",
+        "refy": "8.5.8.5.D"
+    },
+    {
+        "laharana": "53",
+        "refy": "7.8.7.8.7.6.7.6.7.6.7.6"
+    },
+    {
+        "laharana": "54",
+        "refy": "14.14.4.7.8"
+    },
+    {
+        "laharana": "55",
+        "refy": "9.8.9.8.9.8"
+    },
+    {
+        "laharana": "56",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "57",
+        "refy": "8.7.8.7.8.8.7.8.8.7"
+    },
+    {
+        "laharana": "58",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "59",
+        "refy": "8.8.7.8.8.7.4.8.4.8"
+    },
+    {
+        "laharana": "60",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "61",
+        "refy": "8.7.8.7.7.7"
+    },
+    {
+        "laharana": "62",
+        "refy": "8.8.4"
+    },
+    {
+        "laharana": "63",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "64",
+        "refy": "8.6.8.6.D"
+    },
+    {
+        "laharana": "65",
+        "refy": "8.6.8.6.D"
+    },
+    {
+        "laharana": "66",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "67",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "68",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "69",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "70",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "71",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "72",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "73",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "74",
+        "refy": "8.7.8.7.7.7"
+    },
+    {
+        "laharana": "75",
+        "refy": "11.10.11.10 D"
+    },
+    {
+        "laharana": "76",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "77",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "78",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "79",
+        "refy": "8.8.8.8"
+    },
+    {
+        "laharana": "80",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "81",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "82",
+        "refy": "8.7.8.7.8.8.7.8.8.7"
+    },
+    {
+        "laharana": "83",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "84",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "85",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "86",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "87",
+        "refy": "8.8.7"
+    },
+    {
+        "laharana": "88",
+        "refy": "C.M.D"
+    },
+    {
+        "laharana": "89",
+        "refy": "8.7.8.7.7.7"
+    },
+    {
+        "laharana": "90",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "91",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "92",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "93",
+        "refy": "8.8.6.8.8.6"
+    },
+    {
+        "laharana": "94",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "95",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "96",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "97",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "98",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "99",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "100",
+        "refy": "7.7.7.7.7.7"
+    },
+    {
+        "laharana": "101",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "102",
+        "refy": "8.7.8.7 "
+    },
+    {
+        "laharana": "103",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "104",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "105",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "106",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "107",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "108",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "109",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "110",
+        "refy": "6.6.6.6.8.6.8.6"
+    },
+    {
+        "laharana": "111",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "112",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "113",
+        "refy": "6.5.6.5"
+    },
+    {
+        "laharana": "114",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "115",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "116",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "117",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "118",
+        "refy": "8.8.7.8.8.7"
+    },
+    {
+        "laharana": "119",
+        "refy": "xP.M"
+    },
+    {
+        "laharana": "120",
+        "refy": "8.7.8.7.8.8.7"
+    },
+    {
+        "laharana": "121",
+        "refy": "7.8.7.8.8.8"
+    },
+    {
+        "laharana": "122",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "123",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "124",
+        "refy": "7.8.7.8.7.6.7.6.7.6.7.6"
+    },
+    {
+        "laharana": "125",
+        "refy": "7.8.7.8.8.8"
+    },
+    {
+        "laharana": "126",
+        "refy": "10.8.10.8.9.8.9.8"
+    },
+    {
+        "laharana": "127",
+        "refy": "11.10.11.10 D"
+    },
+    {
+        "laharana": "128",
+        "refy": "8.7.8.7.7.7"
+    },
+    {
+        "laharana": "129",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "130",
+        "refy": "8.8..7.8.8.7.4.8.4.8"
+    },
+    {
+        "laharana": "131",
+        "refy": "14.14.4.7.8"
+    },
+    {
+        "laharana": "132",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "133",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "134",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "135",
+        "refy": "7.6.7.6"
+    },
+    {
+        "laharana": "136",
+        "refy": "7.6.7.6"
+    },
+    {
+        "laharana": "137",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "138",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "139",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "140",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "141",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "142",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "143",
+        "refy": "8.4.8.4.D"
+    },
+    {
+        "laharana": "144",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "145",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "146",
+        "refy": "xP.M"
+    },
+    {
+        "laharana": "147",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "148",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "149",
+        "refy": "8.7.8.7.8.7.8.5"
+    },
+    {
+        "laharana": "150",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "151",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "152",
+        "refy": "8.8.4"
+    },
+    {
+        "laharana": "153",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "154",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "155",
+        "refy": "7.6.7.6"
+    },
+    {
+        "laharana": "156",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "157",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "158",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "159",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "160",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "161",
+        "refy": "L.M.D"
+    },
+    {
+        "laharana": "162",
+        "refy": "8.7.8.7.7.7"
+    },
+    {
+        "laharana": "163",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "164",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "165",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "166",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "167",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "168",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "169",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "170",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "171",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "172",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "173",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "174",
+        "refy": "6.6.4.6.6.6.4"
+    },
+    {
+        "laharana": "175",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "176",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "177",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "178",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "179",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "180",
+        "refy": "8.6.8.4"
+    },
+    {
+        "laharana": "181",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "182",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "183",
+        "refy": "8.8.7.8.8.7.4.8.4.8"
+    },
+    {
+        "laharana": "184",
+        "refy": "8.8.7.8.8.7.4.8.4.8"
+    },
+    {
+        "laharana": "185",
+        "refy": "11.10.11.10 D"
+    },
+    {
+        "laharana": "186",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "187",
+        "refy": "8.7.8.7.6.6.6.6.7"
+    },
+    {
+        "laharana": "188",
+        "refy": "6.6.5.6.6.5.7.8.6"
+    },
+    {
+        "laharana": "189",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "190",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "191",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "192",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "193",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "194",
+        "refy": "L.M.D"
+    },
+    {
+        "laharana": "195",
+        "refy": "14.14.4.7.8"
+    },
+    {
+        "laharana": "196",
+        "refy": "8.7.8.7.8.8.7"
+    },
+    {
+        "laharana": "197",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "198",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "199",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "200",
+        "refy": "6.6.4.6.6.6.4"
+    },
+    {
+        "laharana": "201",
+        "refy": "6.6.4.6.6.6.4"
+    },
+    {
+        "laharana": "202",
+        "refy": "6.4.6.4.6.6.6.4"
+    },
+    {
+        "laharana": "203",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "204",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "205",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "206",
+        "refy": "66.66.88"
+    },
+    {
+        "laharana": "207",
+        "refy": "6.6.6.6.8.8"
+    },
+    {
+        "laharana": "208",
+        "refy": "6.6.6.6.8.8"
+    },
+    {
+        "laharana": "209",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "210",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "211",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "212",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "213",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "214",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "215",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "216",
+        "refy": "C.M.D"
+    },
+    {
+        "laharana": "217",
+        "refy": "7.8.7.8.8.8"
+    },
+    {
+        "laharana": "218",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "219",
+        "refy": "8.7.8.7.8.8.7"
+    },
+    {
+        "laharana": "220",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "221",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "222",
+        "refy": "8.7.8.7.8.8.7.8.8.7"
+    },
+    {
+        "laharana": "223",
+        "refy": "8.7.8.7.8.8"
+    },
+    {
+        "laharana": "224",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "225",
+        "refy": "8.6.8.6.8.8.8.6"
+    },
+    {
+        "laharana": "226",
+        "refy": "8.7.8.7.8.8.8.7"
+    },
+    {
+        "laharana": "227",
+        "refy": "7.8.7.8.8.8"
+    },
+    {
+        "laharana": "228",
+        "refy": "8.8.7.8.8.7.4.8.4.8"
+    },
+    {
+        "laharana": "229",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "230",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "231",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "232",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "233",
+        "refy": "C.M.D"
+    },
+    {
+        "laharana": "234",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "235",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "236",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "237",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "238",
+        "refy": "8.8.6.8.8.6"
+    },
+    {
+        "laharana": "239",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "240",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "241",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "242",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "243",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "244",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "245",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "246",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "247",
+        "refy": "8.7.8.7.8.8.7"
+    },
+    {
+        "laharana": "248",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "249",
+        "refy": "11.10.11.10"
+    },
+    {
+        "laharana": "250",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "251",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "252",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "253",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "254",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "255",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "256",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "257",
+        "refy": "8.8.7.8.8.7"
+    },
+    {
+        "laharana": "258",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "259",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "260",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "261",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "262",
+        "refy": "6.4.6.4.6.6.6.4"
+    },
+    {
+        "laharana": "263",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "264",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "265",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "266",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "267",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "268",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "269",
+        "refy": "9.8.9.8.D"
+    },
+    {
+        "laharana": "270",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "271",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "272",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "273",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "274",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "275",
+        "refy": "8.7.8.7.6.7.6.7"
+    },
+    {
+        "laharana": "276",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "277",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "278",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "279",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "280",
+        "refy": "C.M.D"
+    },
+    {
+        "laharana": "281",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "282",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "283",
+        "refy": "8.5.8.5.D"
+    },
+    {
+        "laharana": "284",
+        "refy": "13.12.13.12"
+    },
+    {
+        "laharana": "285",
+        "refy": "7.6.7.6"
+    },
+    {
+        "laharana": "286",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "287",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "288",
+        "refy": "8.5.8.5.D"
+    },
+    {
+        "laharana": "289",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "290",
+        "refy": "8.8.7.8.8.7.4.8.4.8"
+    },
+    {
+        "laharana": "291",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "292",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "293",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "294",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "295",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "296",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "297",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "298",
+        "refy": "11.10.11.10.D"
+    },
+    {
+        "laharana": "299",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "300",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "301",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "302",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "303",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "304",
+        "refy": "8.8.8.8.8.8"
+    },
+    {
+        "laharana": "305",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "306",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "307",
+        "refy": "11 in6"
+    },
+    {
+        "laharana": "308",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "309",
+        "refy": "7.6.7.6.7.6.D"
+    },
+    {
+        "laharana": "310",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "311",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "312",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "313",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "314",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "315",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "316",
+        "refy": "8.7.8.7.8.8"
+    },
+    {
+        "laharana": "317",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "318",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "319",
+        "refy": "8.7 (in-6)"
+    },
+    {
+        "laharana": "320",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "321",
+        "refy": "7.7.7.7.7.7"
+    },
+    {
+        "laharana": "322",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "323",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "324",
+        "refy": "8.8.8.8.8.8"
+    },
+    {
+        "laharana": "325",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "326",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "327",
+        "refy": "6 in_"
+    },
+    {
+        "laharana": "328",
+        "refy": "7.8.7.8.88"
+    },
+    {
+        "laharana": "329",
+        "refy": "8.7.8.7.7.7.8.8"
+    },
+    {
+        "laharana": "330",
+        "refy": "7.8.7.8.8.8"
+    },
+    {
+        "laharana": "331",
+        "refy": "8.7.8.7.7.7.8.8"
+    },
+    {
+        "laharana": "332",
+        "refy": "8.6.8.6.8.8.8.6"
+    },
+    {
+        "laharana": "333",
+        "refy": "7.7.7.7.7.7"
+    },
+    {
+        "laharana": "334",
+        "refy": "x7.6.7.6.D"
+    },
+    {
+        "laharana": "335",
+        "refy": "x8.7.8.7.4.7"
+    },
+    {
+        "laharana": "336",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "337",
+        "refy": "7.7.7.7.D"
+    },
+    {
+        "laharana": "338",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "339",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "340",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "341",
+        "refy": "8.7.8.7.8.8.8.7"
+    },
+    {
+        "laharana": "342",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "343",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "344",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "345",
+        "refy": "8.8.7.8.8.7"
+    },
+    {
+        "laharana": "346",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "347",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "348",
+        "refy": "S.M.D"
+    },
+    {
+        "laharana": "349",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "350",
+        "refy": "9.8.9.8.D"
+    },
+    {
+        "laharana": "351",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "352",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "353",
+        "refy": "6.6.6.6.8.6.8.6"
+    },
+    {
+        "laharana": "354",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "355",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "356",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "357",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "358",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "359",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "360",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "361",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "362",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "363",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "364",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "365",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "366",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "367",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "368",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "369",
+        "refy": "9.8.9.8.D"
+    },
+    {
+        "laharana": "370",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "371",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "372",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "373",
+        "refy": "8.7.8.7.7.7.8.8"
+    },
+    {
+        "laharana": "374",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "375",
+        "refy": "7 (6-andalana)"
+    },
+    {
+        "laharana": "376",
+        "refy": "9.8.9.8.8.8"
+    },
+    {
+        "laharana": "377",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "378",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "379",
+        "refy": "8.7.8.7.8.8.8.7"
+    },
+    {
+        "laharana": "380",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "381",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "382",
+        "refy": "12.5.12.5.6.6.5.8"
+    },
+    {
+        "laharana": "383",
+        "refy": "9.9.9.7.D"
+    },
+    {
+        "laharana": "384",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "385",
+        "refy": "8.8.7.7"
+    },
+    {
+        "laharana": "386",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "387",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "388",
+        "refy": "11.6.11.6.9.9"
+    },
+    {
+        "laharana": "389",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "390",
+        "refy": "7.8.7.8.8.8"
+    },
+    {
+        "laharana": "391",
+        "refy": "11.10.11.10"
+    },
+    {
+        "laharana": "392",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "393",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "394",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "395",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "396",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "397",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "398",
+        "refy": "8.7.8.7.7.7.8.8"
+    },
+    {
+        "laharana": "399",
+        "refy": "7.6.7.6.7.6.7.5"
+    },
+    {
+        "laharana": "400",
+        "refy": "11.11.11.5"
+    },
+    {
+        "laharana": "401",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "402",
+        "refy": "8.7.8.7.7.7.8.8"
+    },
+    {
+        "laharana": "403",
+        "refy": "8 (in-10)"
+    },
+    {
+        "laharana": "404",
+        "refy": "9.9.9.9"
+    },
+    {
+        "laharana": "405",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "406",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "407",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "408",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "409",
+        "refy": "12.5.12.5.6.6.5.8"
+    },
+    {
+        "laharana": "410",
+        "refy": "S.M.D"
+    },
+    {
+        "laharana": "411",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "412",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "413",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "414",
+        "refy": "7.7.7.7.7.7"
+    },
+    {
+        "laharana": "415",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "416",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "417",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "418",
+        "refy": "7.7.7.7.D"
+    },
+    {
+        "laharana": "419",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "420",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "421",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "422",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "423",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "424",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "425",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "426",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "427",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "428",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "429",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "430",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "431",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "432",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "433",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "434",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "435",
+        "refy": "11.11.11.D"
+    },
+    {
+        "laharana": "436",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "437",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "438",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "439",
+        "refy": "6.4.6.4.6.6.6.4"
+    },
+    {
+        "laharana": "440",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "441",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "442",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "443",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "444",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "445",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "446",
+        "refy": "13.12.13.12"
+    },
+    {
+        "laharana": "447",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "448",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "449",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "450",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "451",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "452",
+        "refy": "8.7.8.7.8.7"
+    },
+    {
+        "laharana": "453",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "454",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "455",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "456",
+        "refy": "9.8.9.8.9.8"
+    },
+    {
+        "laharana": "457",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "458",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "459",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "460",
+        "refy": "S.M.D"
+    },
+    {
+        "laharana": "461",
+        "refy": "8.8.8.8.8.8"
+    },
+    {
+        "laharana": "462",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "463",
+        "refy": "7.6.7.6"
+    },
+    {
+        "laharana": "464",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "465",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "466",
+        "refy": "8.6.8.6.6.6.6.6"
+    },
+    {
+        "laharana": "467",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "468",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "469",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "470",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "471",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "472",
+        "refy": "7.6.8.6.D"
+    },
+    {
+        "laharana": "473",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "474",
+        "refy": "11.10.11.10"
+    },
+    {
+        "laharana": "475",
+        "refy": "11.10.11.10"
+    },
+    {
+        "laharana": "476",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "477",
+        "refy": "8.7.8.7.3.7"
+    },
+    {
+        "laharana": "478",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "479",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "480",
+        "refy": "9.9.9.9.D"
+    },
+    {
+        "laharana": "481",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "482",
+        "refy": "11.10.11.10"
+    },
+    {
+        "laharana": "483",
+        "refy": "7.7.7.7.D"
+    },
+    {
+        "laharana": "484",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "485",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "486",
+        "refy": "10.9.10.9.D"
+    },
+    {
+        "laharana": "487",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "488",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "489",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "490",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "491",
+        "refy": "8 (im-10)"
+    },
+    {
+        "laharana": "492",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "493",
+        "refy": "9.8.9.8.8.8"
+    },
+    {
+        "laharana": "494",
+        "refy": "6.6.5.6.6.5.7.8.9"
+    },
+    {
+        "laharana": "495",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "496",
+        "refy": "77.77.77"
+    },
+    {
+        "laharana": "497",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "498",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "499",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "500",
+        "refy": "8.7.8.7.6.6.6.6.7"
+    },
+    {
+        "laharana": "501",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "502",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "503",
+        "refy": "8 (in-10)"
+    },
+    {
+        "laharana": "504",
+        "refy": "8.7.8.7.8.8.8.7"
+    },
+    {
+        "laharana": "505",
+        "refy": "7.7.7.7.D"
+    },
+    {
+        "laharana": "506",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "507",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "508",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "509",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "510",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "511",
+        "refy": "11.11.11.11"
+    },
+    {
+        "laharana": "512",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "513",
+        "refy": "6.4.6.4.6.6.6.4"
+    },
+    {
+        "laharana": "514",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "515",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "516",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "517",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "518",
+        "refy": "10.10.10.10 (misy ref)"
+    },
+    {
+        "laharana": "519",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "520",
+        "refy": "S.M.D"
+    },
+    {
+        "laharana": "521",
+        "refy": "8.8.7.7"
+    },
+    {
+        "laharana": "522",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "523",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "524",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "525",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "526",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "527",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "528",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "529",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "530",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "531",
+        "refy": "9.8.9.8.D"
+    },
+    {
+        "laharana": "532",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "533",
+        "refy": "7.8.7.8.7.6.7.6.7.6.7.6"
+    },
+    {
+        "laharana": "534",
+        "refy": "8.7.8.7.8.7.D"
+    },
+    {
+        "laharana": "535",
+        "refy": "L.M.D"
+    },
+    {
+        "laharana": "536",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "537",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "538",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "539",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "540",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "541",
+        "refy": "9.9.9.9"
+    },
+    {
+        "laharana": "542",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "543",
+        "refy": "8.6.8.6.6.6.6.6"
+    },
+    {
+        "laharana": "544",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "545",
+        "refy": "9.8.9.8.D"
+    },
+    {
+        "laharana": "546",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "547",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "548",
+        "refy": "10.9.10.9.D"
+    },
+    {
+        "laharana": "549",
+        "refy": "8 (im-10)"
+    },
+    {
+        "laharana": "550",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "551",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "552",
+        "refy": "9.8.9.8.8.8"
+    },
+    {
+        "laharana": "553",
+        "refy": "8.7.D"
+    },
+    {
+        "laharana": "554",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "555",
+        "refy": "8.8.7.7"
+    },
+    {
+        "laharana": "556",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "557",
+        "refy": "8.7.8.7.7.7"
+    },
+    {
+        "laharana": "558",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "559",
+        "refy": "11.10.11.10"
+    },
+    {
+        "laharana": "560",
+        "refy": "8.7 (in-6)"
+    },
+    {
+        "laharana": "561",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "562",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "563",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "564",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "565",
+        "refy": "8.8.8.6"
+    },
+    {
+        "laharana": "566",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "567",
+        "refy": "6.5.6.5.D"
+    },
+    {
+        "laharana": "568",
+        "refy": "6.5.6.5.D"
+    },
+    {
+        "laharana": "569",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "570",
+        "refy": "9.9.9.6.D"
+    },
+    {
+        "laharana": "571",
+        "refy": "8.7 (in-6)"
+    },
+    {
+        "laharana": "572",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "573",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "574",
+        "refy": "7.7.7.7.D"
+    },
+    {
+        "laharana": "575",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "576",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "577",
+        "refy": "S.M.D"
+    },
+    {
+        "laharana": "578",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "579",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "580",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "581",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "582",
+        "refy": "8.8.8.8.8.8"
+    },
+    {
+        "laharana": "583",
+        "refy": "55.88.55"
+    },
+    {
+        "laharana": "584",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "585",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "586",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "587",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "588",
+        "refy": "12.12.12.12"
+    },
+    {
+        "laharana": "589",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "590",
+        "refy": "11.11.11.5"
+    },
+    {
+        "laharana": "591",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "592",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "593",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "594",
+        "refy": "7.6.7.6.7.6.7.5"
+    },
+    {
+        "laharana": "595",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "596",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "597",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "598",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "599",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "600",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "601",
+        "refy": "8.7.8.7.8.8.7"
+    },
+    {
+        "laharana": "602",
+        "refy": "11.11.11.5"
+    },
+    {
+        "laharana": "603",
+        "refy": "8.6.8.6.8.8.8.6"
+    },
+    {
+        "laharana": "604",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "605",
+        "refy": "8.7 (6 and)"
+    },
+    {
+        "laharana": "606",
+        "refy": "9.8.9.8.8.8"
+    },
+    {
+        "laharana": "607",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "608",
+        "refy": "6.6.4.6.6.6.4"
+    },
+    {
+        "laharana": "609",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "610",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "611",
+        "refy": "C.M.D"
+    },
+    {
+        "laharana": "612",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "613",
+        "refy": "S.M"
+    },
+    {
+        "laharana": "614",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "615",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "616",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "617",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "618",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "619",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "620",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "621",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "622",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "623",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "624",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "625",
+        "refy": "7.6.8.6.D"
+    },
+    {
+        "laharana": "626",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "627",
+        "refy": "L.M.D"
+    },
+    {
+        "laharana": "628",
+        "refy": "8.7.8.7.8.7"
+    },
+    {
+        "laharana": "629",
+        "refy": "11.11.11.11 (ref)"
+    },
+    {
+        "laharana": "630",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "631",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "632",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "633",
+        "refy": "9.8.9.8.8.8"
+    },
+    {
+        "laharana": "634",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "635",
+        "refy": "11.10.11.10.D"
+    },
+    {
+        "laharana": "636",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "637",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "638",
+        "refy": "9.8.9.8.4.8"
+    },
+    {
+        "laharana": "639",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "640",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "641",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "642",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "643",
+        "refy": "11.10.11.10"
+    },
+    {
+        "laharana": "644",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "645",
+        "refy": "C.M.D"
+    },
+    {
+        "laharana": "646",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "647",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "648",
+        "refy": "5.5.8.8.5.5"
+    },
+    {
+        "laharana": "649",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "650",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "651",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "652",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "653",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "654",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "655",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "656",
+        "refy": "10.10.10.10.D"
+    },
+    {
+        "laharana": "657",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "658",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "659",
+        "refy": "9.9.9.9"
+    },
+    {
+        "laharana": "660",
+        "refy": "8.9.8.8.9.8.6.6.4.8.8"
+    },
+    {
+        "laharana": "661",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "662",
+        "refy": "10.10.10.10.D"
+    },
+    {
+        "laharana": "663",
+        "refy": "9.8.9.8.D"
+    },
+    {
+        "laharana": "664",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "665",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "666",
+        "refy": "C.M.D"
+    },
+    {
+        "laharana": "667",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "668",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "669",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "670",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "671",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "672",
+        "refy": "9.9.9.9.6.9"
+    },
+    {
+        "laharana": "673",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "674",
+        "refy": "11.10.11.10.D"
+    },
+    {
+        "laharana": "675",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "676",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "677",
+        "refy": "8.8.8.6 (in-3)"
+    },
+    {
+        "laharana": "678",
+        "refy": "8.8.8.6 (in-3)"
+    },
+    {
+        "laharana": "679",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "680",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "681",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "682",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "683",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "684",
+        "refy": "9.9.9.9.6.9"
+    },
+    {
+        "laharana": "685",
+        "refy": "8.7.8.7.8.7.8.5"
+    },
+    {
+        "laharana": "686",
+        "refy": "S.M.D"
+    },
+    {
+        "laharana": "687",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "688",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "689",
+        "refy": "7.7.7.7.D"
+    },
+    {
+        "laharana": "690",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "691",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "692",
+        "refy": "6.4.6.4.6.7.6.4"
+    },
+    {
+        "laharana": "693",
+        "refy": "9.9.9.9.6.9"
+    },
+    {
+        "laharana": "694",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "695",
+        "refy": "6.6.6.6.D"
+    },
+    {
+        "laharana": "696",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "697",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "698",
+        "refy": "8.7.8.7.7.7"
+    },
+    {
+        "laharana": "699",
+        "refy": "10.10.10.8"
+    },
+    {
+        "laharana": "700",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "701",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "702",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "703",
+        "refy": "8.7.4"
+    },
+    {
+        "laharana": "704",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "705",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "706",
+        "refy": "7.7.7.7.D"
+    },
+    {
+        "laharana": "707",
+        "refy": "7.7.7.7.7.7"
+    },
+    {
+        "laharana": "708",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "709",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "710",
+        "refy": "8.8.7.8.8.7.4.8.4.8"
+    },
+    {
+        "laharana": "711",
+        "refy": "10.9.10.9.D"
+    },
+    {
+        "laharana": "712",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "713",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "714",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "715",
+        "refy": "6.5.6.5"
+    },
+    {
+        "laharana": "716",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "717",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "718",
+        "refy": "77.76.D"
+    },
+    {
+        "laharana": "719",
+        "refy": "7.8.8.7.8.7.8.7"
+    },
+    {
+        "laharana": "720",
+        "refy": "6.5.6.5"
+    },
+    {
+        "laharana": "721",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "722",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "723",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "724",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "725",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "726",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "727",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "728",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "729",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "730",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "731",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "732",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "733",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "734",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "735",
+        "refy": "7.6.7.6.7.6.D"
+    },
+    {
+        "laharana": "736",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "737",
+        "refy": "13.13.12.6.6"
+    },
+    {
+        "laharana": "738",
+        "refy": "13.13.12.6.6"
+    },
+    {
+        "laharana": "739",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "740",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "741",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "742",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "743",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "744",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "745",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "746",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "747",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "748",
+        "refy": "S.M.D"
+    },
+    {
+        "laharana": "749",
+        "refy": "L.M"
+    },
+    {
+        "laharana": "750",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "751",
+        "refy": "6.5.6.5"
+    },
+    {
+        "laharana": "752",
+        "refy": "10.10.10.10"
+    },
+    {
+        "laharana": "753",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "754",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "755",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "756",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "757",
+        "refy": "7.6.7.6 (in-3)"
+    },
+    {
+        "laharana": "758",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "759",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "760",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "761",
+        "refy": "x8.7.8.7.D"
+    },
+    {
+        "laharana": "762",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "763",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "764",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "765",
+        "refy": "x8.7.8.7.D"
+    },
+    {
+        "laharana": "766",
+        "refy": "10.10.10.10.D"
+    },
+    {
+        "laharana": "767",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "768",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "769",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "770",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "771",
+        "refy": "8.9.8.9.D (PM)"
+    },
+    {
+        "laharana": "772",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "773",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "774",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "775",
+        "refy": "7.7.7.7.7.7"
+    },
+    {
+        "laharana": "776",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "777",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "778",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "779",
+        "refy": "7.7.7.7 (ref)"
+    },
+    {
+        "laharana": "780",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "781",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "782",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "783",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "784",
+        "refy": "65.65"
+    },
+    {
+        "laharana": "785",
+        "refy": "65.65"
+    },
+    {
+        "laharana": "786",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "787",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "788",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "789",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "790",
+        "refy": "8.7.8.7.4.7"
+    },
+    {
+        "laharana": "791",
+        "refy": "6.5.6.5"
+    },
+    {
+        "laharana": "792",
+        "refy": "7.8.7.8.8.8"
+    },
+    {
+        "laharana": "793",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "794",
+        "refy": "6.5.6.5"
+    },
+    {
+        "laharana": "795",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "796",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "797",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "798",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "799",
+        "refy": "8.7.8.7"
+    },
+    {
+        "laharana": "800",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "801",
+        "refy": "7.6.7.6"
+    },
+    {
+        "laharana": "802",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "803",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "804",
+        "refy": "C.M"
+    },
+    {
+        "laharana": "805",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "806",
+        "refy": "11.11.11.11"
+    },
+    {
+        "laharana": "807",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "808",
+        "refy": "8.7.8.7.D"
+    },
+    {
+        "laharana": "809",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "810",
+        "refy": "11.11.11.11"
+    },
+    {
+        "laharana": "811",
+        "refy": "8.7.8.7.8.7"
+    },
+    {
+        "laharana": "812",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "813",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "814",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "815",
+        "refy": "C.M.D"
+    },
+    {
+        "laharana": "816",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "817",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "818",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "819",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "820",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "821",
+        "refy": "7.7.7.7"
+    },
+    {
+        "laharana": "822",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "823",
+        "refy": "7.6.7.6.D"
+    },
+    {
+        "laharana": "824",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "825",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "826",
+        "refy": "P.M"
+    },
+    {
+        "laharana": "827",
+        "refy": "P.M"
+    }
+]
